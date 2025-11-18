@@ -17,7 +17,7 @@ The goal is to simulate how modern ATS systems and hiring managers evaluate resu
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Screenshot1](assets/screenshot1.png)
+![Screenshot1](screenshots/home.png)
 
 ### 📝 Detailed Resume Review
 ![Screenshot2](assets/screenshot2.png)
