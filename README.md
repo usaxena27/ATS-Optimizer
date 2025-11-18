@@ -14,6 +14,22 @@ The goal is to simulate how modern ATS systems and hiring managers evaluate resu
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Screenshot1](assets/screenshot1.png)
+
+### 📝 Detailed Resume Review
+![Screenshot2](assets/screenshot2.png)
+
+### 📈 Skill Gap & Improvement Plan
+![Screenshot3](assets/screenshot4.png)
+
+### 📊 ATS Match Score
+![Screenshot4](assets/screenshot4.png)
+
+---
+
 ## 🚀 Features
 
 ### 🧾 1. Multi-Page Resume Text Extraction (PyPDF2)
@@ -174,11 +190,15 @@ http://localhost:8501
 
 ## 📁 File Structure
 ```bash
-📁 project-root/
-│── app.py                # Main Streamlit application
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-│── .env                  # Environment variables (ignored in git)
+📁 ATS-Optimizer/
+│── app.py
+│── README.md
+│── requirements.txt
+│── screenshots/
+│     ├── home.png
+│     ├── review.png
+│     ├── skills.png
+│     ├── match.png
 ```
 
 ## 🧪 Example Use Cases
