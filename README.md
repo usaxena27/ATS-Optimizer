@@ -20,13 +20,13 @@ The goal is to simulate how modern ATS systems and hiring managers evaluate resu
 ![Screenshot1](screenshots/home.png)
 
 ### 📝 Detailed Resume Review
-![Screenshot2](assets/screenshot2.png)
+![Screenshot2](screenshots/review.png)
 
 ### 📈 Skill Gap & Improvement Plan
-![Screenshot3](assets/screenshot4.png)
+![Screenshot3](screenshots/skill.png)
 
 ### 📊 ATS Match Score
-![Screenshot4](assets/screenshot4.png)
+![Screenshot4](screenshots/match.png)
 
 ---
 
